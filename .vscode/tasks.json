@@ -1,0 +1,65 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "cppbuild",
+			"label": "C/C++: gcc.exe 生成活动文件",
+			"command": "D:\\mingw\\mingw-w64-gcc-13.3-stable-r41\\bin\\gcc.exe",
+			"args": [
+				"-fdiagnostics-color=always",
+				"-g",
+				"${file}",
+				"-o",
+				"${fileDirname}\\${fileBasenameNoExtension}.exe"
+			],
+			"options": {
+				"cwd": "${fileDirname}"
+			},
+			"problemMatcher": [
+				"$gcc"
+			],
+			"group": "build",
+			"detail": "编译器: D:\\mingw\\mingw-w64-gcc-13.3-stable-r41\\bin\\gcc.exe"
+		},
+		{
+			"type": "cppbuild",
+			"label": "C/C++: gcc.exe 生成活动文件",
+			"command": "D:\\mingw\\mingw-w64-gcc-13.3-stable-r41\\bin\\gcc.exe",
+			"args": [
+				"-fdiagnostics-color=always",
+				"-g",
+				"${file}",
+				"-o",
+				"${fileDirname}\\${fileBasenameNoExtension}.exe"
+			],
+			"options": {
+				"cwd": "${fileDirname}"
+			},
+			"problemMatcher": [
+				"$gcc"
+			],
+			"group": "build",
+			"detail": "编译器: D:\\mingw\\mingw-w64-gcc-13.3-stable-r41\\bin\\gcc.exe"
+		},
+		{
+			"type": "cppbuild",
+			"label": "C/C++: gcc.exe 生成活动文件",
+			"command": "D:\\mingw\\mingw-w64-gcc-13.3-stable-r41\\bin\\gcc.exe",
+			"args": [
+				"-fdiagnostics-color=always",
+				"-g",
+				"${file}",
+				"-o",
+				"${fileDirname}\\${fileBasenameNoExtension}.exe"
+			],
+			"options": {
+				"cwd": "${fileDirname}"
+			},
+			"problemMatcher": [
+				"$gcc"
+			],
+			"group": "build",
+			"detail": "编译器: D:\\mingw\\mingw-w64-gcc-13.3-stable-r41\\bin\\gcc.exe"
+		}
+	]
+}

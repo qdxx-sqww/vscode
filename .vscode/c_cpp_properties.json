@@ -1,0 +1,20 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "D:\\mingw\\mingw-w64-gcc-13.3-stable-r41\\bin\\gcc.exe",
+            "cStandard": "c17",
+            "cppStandard": "gnu++17",
+            "intelliSenseMode": "gcc-x64"
+        }
+    ],
+    "version": 4
+}
